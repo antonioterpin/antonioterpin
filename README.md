@@ -14,6 +14,7 @@ Research codebases and reference implementations
 | Project | Stars | Paper |
 |---|---:|---|
 | **[pinet](https://github.com/antonioterpin/pinet)** | ![Stars](https://img.shields.io/github/stars/antonioterpin/pinet?style=social) | [Pinet: Optimizing hard-constrained neural networks with orthogonal projection layers](https://arxiv.org/abs/2508.10480) |
+| **[jkonet-star](https://github.com/antonioterpin/jkonet-star)** | ![Stars](https://img.shields.io/github/stars/antonioterpin/jkonet-star?style=social) | [Learning diffusion at lightspeed](https://arxiv.org/abs/2406.12616) |
 | **[synthpix](https://github.com/antonioterpin/synthpix)** | ![Stars](https://img.shields.io/github/stars/antonioterpin/synthpix?style=social) | [SynthPix: A lightspeed PIV images generator](https://arxiv.org/abs/2512.09664) |
 | **[flowgym](https://github.com/antonioterpin/flowgym)** | ![Stars](https://img.shields.io/github/stars/antonioterpin/flowgym?style=social) | [Flow Gym](https://arxiv.org/abs/2512.20642) |
 | **[flowadmm](https://github.com/antonioterpin/flowadmm)** | ![Stars](https://img.shields.io/github/stars/antonioterpin/flowgym?style=social) | [Particle Image Velocimetry Refinement via Consensus ADMM](https://arxiv.org/abs/2512.11695) |
