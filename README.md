@@ -17,7 +17,6 @@ Research codebases and reference implementations
 | **[jkonet-star](https://github.com/antonioterpin/jkonet-star)** | ![Stars](https://img.shields.io/github/stars/antonioterpin/jkonet-star?style=social) | [Learning diffusion at lightspeed](https://arxiv.org/abs/2406.12616) |
 | **[synthpix](https://github.com/antonioterpin/synthpix)** | ![Stars](https://img.shields.io/github/stars/antonioterpin/synthpix?style=social) | [SynthPix: A lightspeed PIV images generator](https://arxiv.org/abs/2512.09664) |
 | **[flowgym](https://github.com/antonioterpin/flowgym)** | ![Stars](https://img.shields.io/github/stars/antonioterpin/flowgym?style=social) | [Flow Gym](https://arxiv.org/abs/2512.20642) |
-| **[flowadmm](https://github.com/antonioterpin/flowadmm)** | ![Stars](https://img.shields.io/github/stars/antonioterpin/flowgym?style=social) | [Particle Image Velocimetry Refinement via Consensus ADMM](https://arxiv.org/abs/2512.11695) |
 
 ---
 
@@ -29,4 +28,3 @@ Reusable packages and utilities I maintain for research workflows.
 |---|---:|---|
 | **[goggles](https://github.com/antonioterpin/goggles)** | ![Stars](https://img.shields.io/github/stars/antonioterpin/goggles?style=social) | The logger I intensively use in my projects. |
 | **[tinyros](https://github.com/antonioterpin/tinyros)** | ![Stars](https://img.shields.io/github/stars/antonioterpin/tinyros?style=social) | A tiny robot operating system, I use it in place of ROS/ROS2. |
-| **[robostack](https://github.com/antonioterpin/robostack)** | ![Stars](https://img.shields.io/github/stars/antonioterpin/robostack?style=social) | A template for research code, instead of copy pasting the same things in new repos. |
