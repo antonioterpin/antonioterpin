@@ -28,3 +28,4 @@ Reusable packages and utilities I maintain for research workflows.
 |---|---:|---|
 | **[goggles](https://github.com/antonioterpin/goggles)** | ![Stars](https://img.shields.io/github/stars/antonioterpin/goggles?style=social) | The logger I intensively use in my projects. |
 | **[tinyros](https://github.com/antonioterpin/tinyros)** | ![Stars](https://img.shields.io/github/stars/antonioterpin/tinyros?style=social) | A tiny robot operating system, I use it in place of ROS/ROS2. |
+| **[qr-cli](https://github.com/antonioterpin/qr-cli)** | ![Stars](https://img.shields.io/github/stars/antonioterpin/qr-cli?style=social) | A simple CLI tool to generate QR codes. |
